@@ -6,14 +6,6 @@ This project showcases elegant event decoration themes and modern UI design for 
 
 ---
 
-## 🌐 Live Website
-
-🚀 GitHub Pages Deployment:
-
-https://midhun-murphy.github.io/event-decors/
-
----
-
 ## 📌 Overview
 
 Event Decors is a static frontend website developed to showcase event decoration services through an attractive and user-friendly interface.
@@ -110,32 +102,6 @@ cd event-decors
 ### 3️⃣ Open Project
 
 Open `index.html` in your browser.
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-Add screenshot here:
-
-```md
-![Home Page](./assets/screenshots/home.png)
-```
-
-### 📱 Mobile Responsive Design
-
-```md
-![Mobile View](./assets/screenshots/mobile.png)
-```
-
----
-
-## 🎥 Project Demo
-
-```md
-![Demo](./assets/screenshots/demo.gif)
-```
 
 ---
 
@@ -242,7 +208,7 @@ This project is deployed using GitHub Pages.
 
 ### Deployment Link
 
-:contentReference[oaicite:1]{index=1}
+https://midhun-murphy.github.io/event-decors/
 
 ---
 
