@@ -10,7 +10,7 @@ This project showcases elegant event decoration themes and modern UI design for 
 
 🚀 GitHub Pages Deployment:
 
-:contentReference[oaicite:0]{index=0}
+https://midhun-murphy.github.io/event-decors/
 
 ---
 
